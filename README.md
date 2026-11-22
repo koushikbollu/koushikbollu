@@ -1,6 +1,6 @@
 <h1 align="center">Hola, I'm Sai Koushik Bollu! 👋</h1>
 
-<h3 align="center">AI/ML Engineer | Python Developer | Computer Vision Enthusiast ⚡</h3>
+<h3 align="center">Software Developer | AI/ML Engineer ⚡</h3>
 
 <h3 align="center">B.Tech ECE Fresher (2026) from Vignan's Foundation for Science, Technology & Research! ⚡</h3>
 
@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/koushikbollu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:saikoushikbollu@gmail.com"><img src="https://img.shields.io/badge/Email-saikoushikbollu@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://github.com/koushikbollu"><img src="https://img.shields.io/badge/GitHub-koushikbollu-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://koushikbollu.github.io/"><img src="https://img.shields.io/badge/Portfolio-koushikbollu.github.io-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -33,6 +34,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -43,7 +46,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-**Core Skills:** Python • SQL • DSA • OOP • HTML/CSS • Machine Learning • Deep Learning • Computer Vision • CNNs • OpenCV • YOLOv5/v8 • ResNet50 • Roboflow • CSV/JSON Data Handling • Power BI
+**Core Skills:** Python • SQL • JavaScript • React • DSA • OOP • HTML/CSS • Machine Learning • Deep Learning • Computer Vision • CNNs • OpenCV • YOLOv5/v8 • ResNet50 • Roboflow • CSV/JSON Data Handling • Power BI
 
 ---
 
@@ -51,7 +54,8 @@
 
 | Project | What it does | Tech Stack |
 |---|---|---|
-| **Automatic Accident Detection System** | Detects road accidents from video in real-time and sends instant Telegram alerts | YOLOv8, ResNet50, OpenCV, Python, Telegram API |
+| **[Automatic Accident Detection System](https://github.com/koushikbollu/accident-detection)** | Detects road accidents from images and sends instant Telegram alerts — 98.28% accuracy, 97.15% precision, 99.03% recall | YOLOv8, OpenCV, PyTorch, Python, Telegram API |
+| **[Voice Assistant using Python](https://github.com/koushikbollu/voice-assistant)** | Desktop voice assistant — web searches, app launching, and system-task automation by voice, with spoken replies | Python, SpeechRecognition, pyttsx3 |
 | **Real-Time Fire Detection System** | Detects fire in real-time and triggers an automated response | YOLOv5, Arduino, Python, OpenCV |
 | **Timer-Based Mobile Charging System** | Embedded system for timed, controlled mobile charging | Arduino, Embedded C |
 
